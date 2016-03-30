@@ -1,5 +1,5 @@
-build/CENTI.8xp
 *.bat
-Makefile
-*.lnk
 Linkcmd
+Makefile
+*.8xp
+lib.lnk
